@@ -23,11 +23,11 @@
 
 ## About
 
-<p>Small web page made bu Boostrap 5</p>
+<p>Small web page made by Boostrap 5</p>
 
 <p>Working app is deployed on Netlify.</p>
 
-## Technology / Main points
+## Technology
 
 <p>HTML/CSS</p>
 <p>Bootstrap</p>
